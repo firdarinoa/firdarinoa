@@ -71,4 +71,4 @@ I enjoy learning by building, experimenting with new technologies, and creating 
 
 ---
 
-<p align="center"><i>Building, learning, and growing — one project at a time. 🚀</i></p>
+<p align="center"><i>If you don't give up, you still have a chance. Giving up is the greatest failure. </i></p>
