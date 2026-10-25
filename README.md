@@ -1,10 +1,19 @@
-# 👋🏻 Hi, I'm Firda Sahidi!
-
-<h3 align="center">Mobile Software Engineer · iOS Developer · Exploring AI & Python</h3>
+<h1 align="center">Hi, I'm Firda Sahidi! 👋🏻</h1>
+<h3 align="center">Senior iOS Developer · Technical Writer · Exploring AI & Python</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/firda-sahidi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/firdarinoa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/firda-sahidi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/firdarinoa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://medium.com/@firdasahidi">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://stackoverflow.com/users/firda-sahidi">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
 </p>
 
 ---
@@ -28,7 +37,7 @@ I enjoy learning by building, experimenting with new technologies, and creating 
 
 | Project | Description |
 | --- | --- |
-| 🌸 **[Bloomi](https://github.com/firdarinoa/bloomi.github.io)** | A women's weight-loss companion concept focused on tracking progress, body measurements, and menstrual cycles. |
+| 🌸 **[Bloomi](https://github.com/firdarinoa/bloomi)** | A women's weight-loss companion concept focused on tracking progress, body measurements, and menstrual cycles. |
 | 🌷 **Widgetbloom** | An iOS widget app concept for gym enthusiasts, featuring daily motivation and activity data from Apple Health. |
 | 🏋🏻 **AI Fitness Coach** | An exploration of AI-powered squat form analysis and personalised workout feedback. |
 
